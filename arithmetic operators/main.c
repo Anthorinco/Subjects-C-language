@@ -2,15 +2,13 @@
 
 int main()
 {
-   int x = 2;
-   int y = 3;
-   int z = 0;
+    int x = 2;
+    int y = 3;
+    int z = 0;
 
-   z = x + y;
+    z = x + y;
 
-
-   printf("%d", z);
-
+    printf("%d", z);
 
     return 0;
 }
