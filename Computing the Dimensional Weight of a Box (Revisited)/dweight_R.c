@@ -14,10 +14,10 @@ int main(void)
     // Data
     printf("Enter height of box: ");
     scanf("%d", &height);
-    
+
     printf("Enter length of box: ");
     scanf("%d", &length);
-    
+
     printf("Enter width of box: ");
     scanf("%d", &width);
     // Expressions

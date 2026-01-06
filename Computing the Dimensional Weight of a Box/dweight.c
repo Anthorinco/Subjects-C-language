@@ -5,11 +5,10 @@ according to the values hardcoded
 *Date: 12/29/2025
 */
 
-
 #include <stdio.h>
 
 int main(void)
-{   // Variables
+{ // Variables
     int length, width, height, volume, weight;
     length = 12;
     width = 10;
